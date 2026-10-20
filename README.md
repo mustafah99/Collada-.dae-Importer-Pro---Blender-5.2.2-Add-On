@@ -6,3 +6,5 @@ It was made using GLM-5.3-Flash as an alternative to the Blender-v5-DAE-Importer
 It's free for you to use, look at or modify as needed. The license is CC0 1.0 Universal.
 
 Download the add-on .zip file through the "Releases" tab and install through Blender by going to Files > Preferences > Add-ons > Install from disk > then select the .zip file and enable it.
+
+<img width="764" height="708" alt="image" src="https://github.com/user-attachments/assets/f361af7b-5360-47e8-8381-c52c1558c8b8" />
